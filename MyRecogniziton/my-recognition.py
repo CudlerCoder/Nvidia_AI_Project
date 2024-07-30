@@ -9,9 +9,11 @@ parser = argparse.ArgumentParser()
 parser.add_argument("filename", type = str, help = "filename of the image process")
 parser.add_argument("--network", type = str, default = "googlenet", help = "model to use where google net is default")
 
-img = jetson_utils.loadimage(opt.filename)
+opt = parser.parse_args()
 
-jetson_inference.imageNot(opt.filename)
+img = jetson_utils.loadImage(opt.filename)
+
+net = jetson_inference.imageNet(opt.network)
 
 class_idx, confidence = net.Classify(img)
 
