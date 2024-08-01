@@ -10,7 +10,7 @@ In a year there is an average of 4000 deaths caused by minors drinking alcohol! 
 
 ## The Algorithm
 
-# libraries:
+### libraries:
 jetson_inference: Provides tools for loading and running inference with neural networks.
 
 jetson_utils: Provides utilities for loading and manipulating images.
