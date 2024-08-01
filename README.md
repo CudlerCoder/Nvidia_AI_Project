@@ -7,10 +7,13 @@ The Project uses the Jetson Nano and machine learning to give an age prediction 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
-#libraries:
+
+# libraries:
 jetson_inference: Provides tools for loading and running inference with neural networks.
+
 jetson_utils: Provides utilities for loading and manipulating images.
-argparse: A standard library for parsing command-line arguments.\
+
+argparse: A standard library for parsing command-line arguments.
 
 
 The script is for image recognition on a Jetson Nano device. It parses command line arguments to get the image filename and neural network model, loads the image, and uses a specified neural network model to detect the classification of a provided image. The script then prints the recognized class and confidence level of the classification.
