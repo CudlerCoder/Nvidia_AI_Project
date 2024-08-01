@@ -2,9 +2,11 @@
 
 
 The Project uses the Jetson Nano and machine learning to give an age prediction of an individual in a given image and outputs the age range it thinks the person is most likely a part of:
- 10-12, 12-15, 15-17, 18-19 , 20-25 ,25-35, 42-60, 60+
+ 10-12, 12-15, 15-17, 18-19, 20-25,25-35, 42-60, 60+
 
-![add image descrition here](direct image link here)
+In a year there is an average of 4000 deaths caused by minors drinking alcohol! When it comes to judging age based an appearance its difficult for humans to do that at a glance, my goal with this project was to lay the frame work for possibly solving this problem with Artificial intelligence
+
+
 
 ## The Algorithm
 
