@@ -7,6 +7,12 @@ The Project uses the Jetson Nano and machine learning to give an age prediction 
 In a year there is an average of 4000 deaths caused by minors drinking alcohol! When it comes to judging age based an appearance its difficult for humans to do that at a glance, my goal with this project was to lay the frame work for possibly solving this problem with Artificial intelligence
 
 
+![image](https://github.com/user-attachments/assets/311af3da-f469-4912-a54a-d612cb5c360d)
+
+![image](https://github.com/user-attachments/assets/64970891-cdf7-4e61-ba79-a15d1c41bc2b)
+
+
+
 
 ## The Algorithm
 
